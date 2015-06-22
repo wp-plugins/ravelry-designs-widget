@@ -2,7 +2,7 @@
 Contributors: Shellbot, tdous
 Tags: Ravelry, knitting, crochet, widget
 Requires at least: 3.0
-Tested up to: 3.9.2
+Tested up to: 4.2.2.
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=T3XBQZNXBEHPC
 Stable tag: trunk
 License: GPLv2 or later
@@ -44,7 +44,7 @@ Custom settings:
 
 `[sb_ravelry_designs designer=”michelle may” layout=”layout_2” show=”3” cols=”3”]`
 
-For more info on available options and defaults please see [the plugin release page](http://shellbotics.com/wordpress-plugins/ravelry-designs-widget/ "Ravelry Designs Widget")
+For more info on available options and defaults please see [the plugin release page](http://codebyshellbot.com/wordpress-plugins/ravelry-designs-widget/ "Ravelry Designs Widget")
 
 == Installation ==
 

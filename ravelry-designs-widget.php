@@ -4,11 +4,11 @@
  */
 /*
 Plugin Name: Ravelry Designs Widget
-Plugin URI: http://shellbotics.com/wordpress-plugins/ravelry-designs-widget/
+Plugin URI: http://codebyshellbot.com/wordpress-plugins/ravelry-designs-widget/
 Description: Display your own knitting & crochet designs straight from Ravelry.
 Version: 1.0.0
 Author: Shellbot
-Author URI: http://shellbotics.com
+Author URI: http://codebyshellbot.com
 Text Domain: ravelry-designs-widget
 */
 
